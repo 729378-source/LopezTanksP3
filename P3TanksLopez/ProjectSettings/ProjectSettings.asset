@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 53b7ccd2112f11744be1ecfcd70e44b3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -961,7 +961,7 @@ PlayerSettings:
   cloudProjectId: 0ee27c47-c754-4997-87fe-e3cfb03d2b28
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: QA-Pack-1 2026-01-14_20-55-28
+  projectName: P3TanksLopez
   organizationId: unity_729378
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
